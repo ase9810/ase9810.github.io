@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-info-tsx",
     "path": "/info/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Gatsby Default Starter","description":"Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.","author":"@gatsbyjs"}}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Nice to Meet You,","description":"I'm Junior Frontend Developer Hyeon.","author":"Hyeon"}}},"pageContext":{}},
     "staticQueryHashes": []}
